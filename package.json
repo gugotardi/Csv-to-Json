@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "csvjson": "^5.1.0",
-    "schema-inspector": "^1.6.9"
+    "schema-inspector": "^2.0.0"
   }
 }
